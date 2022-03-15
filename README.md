@@ -1,2 +1,5 @@
-# Numerical-Methods
-Numerical Methods course exercises (Moscow Aviation Institute 6th semester)
+# Численные Методы
+
+| Студент | *Мариничев И. А.* |
+|------|------|
+| Вариант  | *12* |
