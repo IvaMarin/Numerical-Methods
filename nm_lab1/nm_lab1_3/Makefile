@@ -12,10 +12,10 @@ debug:
 	$(CXX) $(CXXFLAGS) -o $(NAME) $(FILES) -g3
 
 valgrind:
-	valgrind --leak-check=full --show-leak-kinds=all --log-file=valgrind.txt ./$(NAME) ./tests/test_01.txt
+	valgrind --leak-check=full --show-leak-kinds=all --log-file=valgrind.txt ./$(NAME) ./tests/test_03.txt
 
 run:
-	./$(NAME) ./tests/test_01.txt
+	./$(NAME) ./tests/test_03.txt
 
 clean:
 	rm -f *.txt *.o $(NAME)

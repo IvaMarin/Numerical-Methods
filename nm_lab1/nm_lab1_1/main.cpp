@@ -229,7 +229,7 @@ int main(int argc, char *argv[]) {
             print_matrix(inverse(L, U, E));
             answer_file_01 << std::endl;
 
-            answer_file_01 << "det(A) = " << det(U) << std::endl;
+            answer_file_01 << "det(A) = " << det(U);
 
             answer_file_01.close();
 
