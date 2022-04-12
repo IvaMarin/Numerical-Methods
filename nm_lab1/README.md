@@ -1,9 +1,5 @@
 # Численные методы линейной алгебры
 
-| Студент | *Мариничев И. А.* |
-|------|------|
-| Вариант  | *12* |
-
 ## [1. LU-разложение матриц](https://github.com/IvaMarin/Numerical-Methods/tree/main/nm_lab1/nm_lab1_1)
 
 ## [2. Метод прогонки](https://github.com/IvaMarin/Numerical-Methods/tree/main/nm_lab1/nm_lab1_2)
@@ -13,3 +9,23 @@
 ## [4. Метод вращений](https://github.com/IvaMarin/Numerical-Methods/tree/main/nm_lab1/nm_lab1_4)
 
 ## [5. QR-алгоритм](https://github.com/IvaMarin/Numerical-Methods/tree/main/nm_lab1/nm_lab1_5)
+
+## Использование
+
+Скомпилировать:
+
+```
+make
+```
+
+Запустить:
+
+```
+make run
+```
+
+Очистить:
+
+```
+make clean
+```
