@@ -1,16 +1,18 @@
 # Численные методы линейной алгебры
 
-## [1. LU-разложение матриц](https://github.com/IvaMarin/Numerical-Methods/tree/main/nm_lab1/nm_lab1_1)
+## Содержание:
 
-## [2. Метод прогонки](https://github.com/IvaMarin/Numerical-Methods/tree/main/nm_lab1/nm_lab1_2)
+### [1. LU-разложение матриц](https://github.com/IvaMarin/Numerical-Methods/tree/main/nm_lab1/nm_lab1_1)
 
-## [3. Метод простых итераций (метод Якоби) и метод Зейделя](https://github.com/IvaMarin/Numerical-Methods/tree/main/nm_lab1/nm_lab1_3)
+### [2. Метод прогонки](https://github.com/IvaMarin/Numerical-Methods/tree/main/nm_lab1/nm_lab1_2)
 
-## [4. Метод вращений](https://github.com/IvaMarin/Numerical-Methods/tree/main/nm_lab1/nm_lab1_4)
+### [3. Метод простых итераций (метод Якоби) и метод Зейделя](https://github.com/IvaMarin/Numerical-Methods/tree/main/nm_lab1/nm_lab1_3)
 
-## [5. QR-алгоритм](https://github.com/IvaMarin/Numerical-Methods/tree/main/nm_lab1/nm_lab1_5)
+### [4. Метод вращений](https://github.com/IvaMarin/Numerical-Methods/tree/main/nm_lab1/nm_lab1_4)
 
-## Использование
+### [5. QR-алгоритм](https://github.com/IvaMarin/Numerical-Methods/tree/main/nm_lab1/nm_lab1_5)
+
+## Инструкция по работе
 
 Скомпилировать:
 
